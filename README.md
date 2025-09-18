@@ -14,7 +14,6 @@
 
 ## 🚀 About Me  
 
-<img align="right" alt="AI Illustration" width="280" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 - 🎓 **First Class Computer Engineering Student (GPA: 4.57/5.0)** at *Olabisi Onabanjo University*  
 - 🔬 Research interests: Predictive Modeling • Computer Vision • Agentic AI • Applied ML  
