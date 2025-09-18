@@ -2,7 +2,7 @@
 
 <!-- Hero banner -->
 <p align="center">
-  <img src="../header.svg" alt="Daniel George Akinwande — AI & ML" width="100%" />
+  <img src="./header.svg" alt="Daniel George Akinwande — AI & ML" width="100%" />
 </p>
 
 <!-- Typing effect -->
@@ -165,4 +165,4 @@ Natural-language interface to query databases (prototype).
 
 ---
 
-<p align="center">⭐️ Crafted with passion by <a href="https://github.com/Danakin01">Danakin01</a></p>
+<p align="center">⭐️ Crafted with passion by <b>DANAKIN</b></p>
