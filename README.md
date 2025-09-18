@@ -2,7 +2,7 @@
 
 <!-- Hero banner -->
 <p align="center">
-  <img src="./header.svg" alt="Daniel George Akinwande — AI & ML" width="100%" />
+  <img src="./header.png" alt="Daniel George Akinwande — AI & ML" width="100%" />
 </p>
 
 <!-- Typing effect -->
