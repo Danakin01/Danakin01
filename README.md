@@ -15,7 +15,7 @@
 ## 🚀 About Me  
 
 
-- 🎓 **First Class Computer Engineering Student (GPA: 4.57/5.0)** at *Olabisi Onabanjo University*  
+- 🎓 **First Class Computer Engineering Graduate** at *Olabisi Onabanjo University*  
 - 🔬 Research interests: Predictive Modeling • Computer Vision • Agentic AI • Applied ML  
 - 💡 Skilled in Python, C++, Java, TensorFlow, scikit-learn, and more  
 - 🏆 Awards: *Best Graduating Student (Comp. Engr.)* • *Outstanding Scholar Award (2022/23)*  
