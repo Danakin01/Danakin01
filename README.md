@@ -18,9 +18,16 @@ I'm an AI Engineer at **VDL Technologies** in Lagos, Nigeria. I build the LLM pi
 
 I graduated with **First Class Honours in Computer Engineering (4.57/5.0)** from Olabisi Onabanjo University as the Best Graduating Student in my department. My research covers predictive modelling, computer vision and agentic AI workflows.
 
-| **1M+** | **190K+** | **25K** | **20+** |
-| :-- | :-- | :-- | :-- |
-| content records validated through production LLM pipelines | records handled by a real-time data pipeline | images scraped and catalogued with my team | participants mentored through Google Developer Student Clubs |
+<table>
+  <tr>
+    <td width="50%"><b>1M+</b><br>content records validated through production LLM pipelines</td>
+    <td width="50%"><b>190K+</b><br>records handled by a real-time data pipeline</td>
+  </tr>
+  <tr>
+    <td width="50%"><b>25K</b><br>images scraped and catalogued with my team</td>
+    <td width="50%"><b>20+</b><br>participants mentored through Google Developer Student Clubs</td>
+  </tr>
+</table>
 
 ## What I work on
 
@@ -34,22 +41,32 @@ I graduated with **First Class Honours in Computer Engineering (4.57/5.0)** from
 
 ## Selected work
 
-| Project | What it does | Result | Links |
-| :-- | :-- | :-- | :-- |
-| **AI Content Pipelines** | Six-stage LLM system for generation, rewriting, fact-checking, deduplication and personalised delivery | **1M+** validated records, in production | [Case study](https://daniel-akinwande.vercel.app/projects/ai-trivia-content-pipelines) |
-| **Face Drowsiness Detection** | Real-time webcam alert system using OpenCV, dlib landmarks and Eye Aspect Ratio | Separates blinks from sustained eye closure | [Code](https://github.com/Danakin01/drowsiness_detection) · [Case study](https://daniel-akinwande.vercel.app/projects/face-drowsiness-detection) |
-| **Spam Message Classifier** | Text classifier trained on 5,157 unique SMS messages, with a Streamlit app | **98.06%** accuracy, **96.77%** spam precision | [Code](https://github.com/Danakin01/email_classifier) · [Case study](https://daniel-akinwande.vercel.app/projects/spam-message-classifier) |
-| **Social Media Sentiment Analysis** | NLP pipeline comparing five classifiers on 732 posts from 33 countries | **72.79%** best test accuracy | [Code](https://github.com/Danakin01/social-media-analysis-sentiment) · [Case study](https://daniel-akinwande.vercel.app/projects/social-media-sentiment-analysis) |
-| **Library Resource Management System** | PHP and MySQL system that replaced manual lending at a university library | **100%** issue and return accuracy, **4.6/5** satisfaction | [Case study](https://daniel-akinwande.vercel.app/projects/library-resource-management-system) |
+**AI Content Pipelines**<br>
+Six-stage LLM system for generation, rewriting, fact-checking, deduplication and personalised delivery.<br>
+**1M+** validated records, in production · [Case study](https://daniel-akinwande.vercel.app/projects/ai-trivia-content-pipelines)
+
+**Face Drowsiness Detection**<br>
+Real-time webcam alert system using OpenCV, dlib landmarks and Eye Aspect Ratio.<br>
+Separates blinks from sustained eye closure · [Code](https://github.com/Danakin01/drowsiness_detection) · [Case study](https://daniel-akinwande.vercel.app/projects/face-drowsiness-detection)
+
+**Spam Message Classifier**<br>
+Text classifier trained on 5,157 unique SMS messages, with a Streamlit app.<br>
+**98.06%** accuracy, **96.77%** spam precision · [Code](https://github.com/Danakin01/email_classifier) · [Case study](https://daniel-akinwande.vercel.app/projects/spam-message-classifier)
+
+**Social Media Sentiment Analysis**<br>
+NLP pipeline comparing five classifiers on 732 posts from 33 countries.<br>
+**72.79%** best test accuracy · [Code](https://github.com/Danakin01/social-media-analysis-sentiment) · [Case study](https://daniel-akinwande.vercel.app/projects/social-media-sentiment-analysis)
+
+**Library Resource Management System**<br>
+PHP and MySQL system that replaced manual lending at a university library.<br>
+**100%** issue and return accuracy, **4.6/5** satisfaction · [Case study](https://daniel-akinwande.vercel.app/projects/library-resource-management-system)
 
 ## Experience
 
-| Role | Organisation | Period |
-| :-- | :-- | :-- |
-| **AI Engineer** | VDL Technologies | Mar 2026 to present |
-| **AI and ML Lead** | Google Developer Student Clubs, OOU | 2023 to 2025 |
-| **Departmental Tech Lead** | OOU-Tech Community | 2023 to 2025 |
-| **Technical Intern** | VDL Technologies | May to Oct 2024 |
+- **AI Engineer**, VDL Technologies · Mar 2026 to present
+- **AI and ML Lead**, Google Developer Student Clubs, OOU · 2023 to 2025
+- **Departmental Tech Lead**, OOU-Tech Community · 2023 to 2025
+- **Technical Intern**, VDL Technologies · May to Oct 2024
 
 ## Research
 
@@ -58,12 +75,13 @@ I graduated with **First Class Honours in Computer Engineering (4.57/5.0)** from
 
 ## Tech stack
 
-| Area | Tools |
-| :-- | :-- |
-| **Languages** | Python, SQL, C++, Java, JavaScript, PHP, MicroPython |
-| **AI and ML** | PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, NLTK, OpenCV, dlib |
-| **LLM engineering** | Prompt engineering, fine-tuning, model retraining, agentic workflows |
-| **Production** | FastAPI, REST APIs, Docker, AWS, SQL databases, parallel workers |
+**Languages:** Python, SQL, C++, Java, JavaScript, PHP, MicroPython
+
+**AI and ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, NLTK, OpenCV, dlib
+
+**LLM engineering:** Prompt engineering, fine-tuning, model retraining, agentic workflows
+
+**Production:** FastAPI, REST APIs, Docker, AWS, SQL databases, parallel workers
 
 ---
 
