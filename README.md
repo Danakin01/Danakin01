@@ -6,17 +6,10 @@ AI Engineer in Lagos, Nigeria. I build LLM pipelines, computer vision systems an
 
 ### Selected work
 
-**[Drowsiness Detection](https://github.com/Danakin01/drowsiness_detection)**
-Real-time driver alertness monitoring with OpenCV and facial landmarks.
-
-**[Spam Classifier](https://github.com/Danakin01/email_classifier)**
-Logistic Regression model with 98.06% test accuracy and a Streamlit app.
-
-**[Sentiment Analysis](https://github.com/Danakin01/social-media-analysis-sentiment)**
-NLP pipeline comparing five classifiers on 732 social media posts.
-
-**[Music Recommendation](https://github.com/Danakin01/MRS)**
-Recommendation system built with collaborative filtering.
+- **[Drowsiness Detection](https://github.com/Danakin01/drowsiness_detection)**: real-time detection with OpenCV and facial landmarks.
+- **[Spam Classifier](https://github.com/Danakin01/email_classifier)**: Logistic Regression model with 98.06% test accuracy.
+- **[Sentiment Analysis](https://github.com/Danakin01/social-media-analysis-sentiment)**: five classifiers compared on 732 social media posts.
+- **[Music Recommendation](https://github.com/Danakin01/MRS)**: recommendation system using collaborative filtering.
 
 ### Tools
 
